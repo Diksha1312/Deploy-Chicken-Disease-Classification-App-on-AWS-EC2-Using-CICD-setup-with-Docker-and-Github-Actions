@@ -2,6 +2,7 @@ import os
 import urllib.request as request
 import zipfile
 from cnnClassifier import logger
+from pathlib import Path
 from cnnClassifier.utils.common import get_size
 from cnnClassifier.entity.config_entity import DataIngestionConfig
 
