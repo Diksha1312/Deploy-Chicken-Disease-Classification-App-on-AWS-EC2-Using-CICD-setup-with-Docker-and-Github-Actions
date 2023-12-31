@@ -12,4 +12,4 @@ Chicken Disease Classification
 8. Update dvc.yaml
 
 
-DATASET link: https://github.com/Diksha1312/Data_To_Experiment/blob/master/Chicken-fecal-images.zip
+DATASET link: https://github.com/Diksha1312/Data_To_Experiment/raw/master/Chicken-fecal-images.zip
