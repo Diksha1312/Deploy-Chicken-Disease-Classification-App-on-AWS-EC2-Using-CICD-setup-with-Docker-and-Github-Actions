@@ -39,12 +39,19 @@ conda activate cnncls
 pip install -r requirements.txt
 ```
 
-### STEP 03- Run main.py file
+### STEP 03- 
+
+1. To run main file
 ```bash
 python main.py
 ```
 
-### To run through DVC cmd, use below commands
+2. To run from app using Flask
+```bash
+python app.py
+```
+
+3. To run through DVC, use below commands
 ```bash
 1. dvc init
 2. dvc repro
