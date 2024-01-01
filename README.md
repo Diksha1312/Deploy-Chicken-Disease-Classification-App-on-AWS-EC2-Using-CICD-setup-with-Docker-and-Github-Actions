@@ -57,3 +57,6 @@ python app.py
 2. dvc repro
 3. dvc dag
 ```
+
+
+277676390796.dkr.ecr.eu-north-1.amazonaws.com/chicken-disease-classification
