@@ -13,3 +13,40 @@ Chicken Disease Classification
 
 
 DATASET link: https://github.com/Diksha1312/Data_To_Experiment/raw/master/Chicken-fecal-images.zip
+
+# How to run?
+### STEPS:
+
+Clone the repository
+
+```bash
+https://github.com/Diksha1312/Chicken-Disease-Classification
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n cnncls python=3.8 -y
+```
+
+```bash
+conda activate cnncls
+```
+
+
+
+### STEP 02- Install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+### STEP 03- Run main.py file
+```bash
+python main.py
+```
+
+### To run through DVC cmd, use below commands
+```bash
+1. dvc init
+2. dvc repro
+3. dvc dag
+```
