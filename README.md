@@ -8,7 +8,7 @@ DATASET link: https://github.com/Diksha1312/Data_To_Experiment/raw/master/Chicke
 Clone the repository
 
 ```bash
-https://github.com/Diksha1312/Chicken-Disease-Classification
+https://github.com/Diksha1312/Deploy-Chicken-Disease-Classification-App-on-AWS-EC2-Using-CICD-setup-with-Docker-and-Github-Actions
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
